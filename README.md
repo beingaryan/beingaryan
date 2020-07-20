@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/beingryaan/">
 <img align="left" alt="Aryan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.youtube.com/playlist?list=PLYGwl7T4aureAEr8qgk-97ZOnSQosZtRc">
+<img align="left" alt="Aryan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+</a>
 
 
 
