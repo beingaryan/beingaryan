@@ -42,7 +42,8 @@ Hi, Aryan Gupta this side!A Machine Learning and Deep Learning Evangelist 🚀 f
 - 👨🏽‍💻 I’m currently partcipating in Competitive Coding Contests.
 - 🌱 Learning currently Neural Networks Frameworks which includes RNN,Sequence models.
 - 💬 If you are up with some brainstorming projects or Ideas,always Welcome! 
-- ⚡️ Fun-Fact: I started writing blogs just to explore new stuffs,but now I can say I'm addicted with this bloging World![Medium](https://medium.com/@aryan.gupta18)
+- ⚡️ Fun-Fact: I started writing blogs just to explore new stuffs,but now I can say I'm addicted with this bloging World!
+                Wanna explore? [Click Here](https://medium.com/@aryan.gupta18)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aryan-gupta-6a9201191/)
 - 📝[Resume](https://github.com/beingaryan/beingaryan.github.io/blob/master/docs/GuptaAryan_IT_2022_RESUME1.pdf)
 
