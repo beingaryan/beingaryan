@@ -61,6 +61,6 @@ Hi, Aryan Gupta this side!A Machine Learning and Deep Learning Evangelist 🚀 f
 <code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" alt="Convolutional Neural Networks" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cnn.svg"></code>
 
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=beingaryan&show_icons=true&theme=merko)
+![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=beingaryan&show_icons=true&theme=radical)
 <!--(https://github-readme-stats.vercel.app/api?username=beingaryan&show_icons=true&hide_border=true&theme=radical)--!>
 
