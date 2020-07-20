@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **beingaryan/beingaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,15 +40,15 @@ Hi, Aryan Gupta this side!A Machine Learning and Deep Learning Evangelist 🚀 f
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently partcipating in Competitive Coding Contests.
-- 🌱 Learning currently Neural Networks which includes RNN,Sequence models.
+- 🌱 Learning currently Neural Networks Frameworks which includes RNN,Sequence models.
 - 💬 If you are up with some brainstorming projects or Ideas,always Welcome! 
 - ⚡️ Fun-Fact: I started writing blogs just to explore new stuffs,but now I can say I'm addicted with this bloging World![Medium](https://medium.com/@aryan.gupta18)
-- 📫 How to reach me: [Email](aryan.gupta18@vit.edu)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aryan-gupta-6a9201191/)
 - 📝[Resume](https://github.com/beingaryan/beingaryan.github.io/blob/master/docs/GuptaAryan_IT_2022_RESUME1.pdf)
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/C/C.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
