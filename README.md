@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Greetings! 👋🏽, I'm [Aryan!](https://www.beingaryan.github.io/)
+### Greetings! 👋🏽, I'm [Aryan!](https://beingaryan.github.io/)
 
 <br/>
 
