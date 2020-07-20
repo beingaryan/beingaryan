@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 
 Hi, Aryan Gupta this side!A Machine Learning and Deep Learning Evangelist 🚀 from Pune, India. As of now, I'm working on my Core Competitive Coding Skill and trying out new ways to explore Neural Networks Framework. Aparts, I'm enrolled as Administrator and Summer Intern at 🙍🏽‍♂️ [@The Robotics Forum](https://vitpunerobotics.com/). Beyond the World of Computers, I love photography and Blogging.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+<!--"https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" />--!>
 
 **Talking about Personal Stuffs:**
 
