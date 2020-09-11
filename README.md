@@ -53,7 +53,7 @@ Hi, Aryan Gupta this side!A Machine Learning and Deep Learning Evangelist 🚀 f
 - ⚡️ Fun-Fact: I started writing blogs just to explore new stuffs,but now I can say I'm addicted with this bloging World!
                 Wanna explore? [Click Here](https://medium.com/@aryan.gupta18)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aryan-gupta-6a9201191/)
-- 📝[Resume](https://beingaryan.github.io/docs/GuptaAryan_IT_2022_Resume.pdf)
+- 📝[Resume](https://beingaryan.github.io/docs/Gupta_Aryan_IT_2022_Resume.pdf)
 
 **Languages and Tools:**
 
