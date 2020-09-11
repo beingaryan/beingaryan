@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, Aryan Gupta this side!A Machine Learning and Deep Learning Evangelist 🚀 from Pune, India. As of now, I'm working on my Core Competitive Coding Skill and trying out new ways to explore Neural Networks Framework. Aparts, I'm enrolled as Administrator and Summer Intern at 🙍🏽‍♂️ [@The Robotics Forum](https://vitpunerobotics.com/). Beyond the World of Computers, I love photography and Blogging.
+Hi, Aryan Gupta this side!A Machine Learning and Deep Learning Evangelist 🚀 from Pune, India. As of now, I'm working on my Core Competitive Coding Skill and trying out new ways to explore Neural Networks Framework. Aparts, I'm enrolled as Administrator and completed Summer Internship at 🙍🏽‍♂️ [@The Robotics Forum](https://vitpunerobotics.com/).Aparts, currently working as a Machine Learning Intern at IIT Kharagpur under guidance of Professor O. Bala Krishna. Beyond the World of Computers, I love photography and Blogging.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif"/>
 <!--"https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />--!>
@@ -48,7 +48,7 @@ Hi, Aryan Gupta this side!A Machine Learning and Deep Learning Evangelist 🚀 f
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently partcipating in Competitive Coding Contests.
-- 🌱 Learning currently Neural Networks Frameworks which includes RNN,Sequence models.
+- 🌱 Learning currently Neural Network Frameworks which includes NLP Techniques.
 - 💬 If you are up with some brainstorming projects or Ideas,always Welcome! 
 - ⚡️ Fun-Fact: I started writing blogs just to explore new stuffs,but now I can say I'm addicted with this bloging World!
                 Wanna explore? [Click Here](https://medium.com/@aryan.gupta18)
