@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Greetings! 👋🏽, I'm [Aryan!](https://beingaryan.github.io/)
-
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=beingaryan alt=beingaryan/></p>
 <br/>
 
 
