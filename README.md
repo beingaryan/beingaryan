@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://medium.com/@aryan.gupta18">
-<img align="left" alt="Sanket Patil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<img align="left" alt="Aryan Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aryan-gupta-6a9201191/">
 <img align="left" alt="Aryan's LinkdeIN Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, Aryan Gupta this side!A Machine Learning and Deep Learning Evangelist 🚀 from Pune, India. As of now, I'm working on my Core Competitive Coding Skill and trying out new ways to explore Neural Networks Framework. Aparts, I'm enrolled as Administrator and completed Summer Internship at 🙍🏽‍♂️ [@The Robotics Forum](https://vitpunerobotics.com/).Aparts, currently working as a Machine Learning Intern at IIT Kharagpur under guidance of Professor O. Bala Krishna. Beyond the World of Computers, I love photography and Blogging.
+Hi, Aryan Gupta this side!A Machine Learning and Deep Learning Evangelist 🚀 from Pune, India. As of now, I'm working on my Core Competitive Coding Skill and trying out new ways to explore Neural Networks Framework. Aparts, I'm enrolled as Administrator and completed Summer Internship at 🙍🏽‍♂️ [@The Robotics Forum](https://vitpunerobotics.com/).Aparts, currently working as a Machine Learning Intern at INDIAN INSTITUTE OF TECHNOLOGY, KHARAGPUR under guidance of Professor O. Bala Krishna. I'm also working as a Deep Learning Intern at Tata Communications exploring the field of Facial Sentimental Analysis. Beyond the World of Computers, I love photography and Blogging.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif"/>
 <!--"https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />--!>
