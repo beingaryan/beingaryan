@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/aryan-gupta-6a9201191/">
 <img align="left" alt="Aryan's LinkdeIN Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.codechef.com/users/beingaryan">
-<img align="left" alt="CodeChef Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codechef.svg" />
-</a>
+
 <a href="https://www.instagram.com/beingryaan/">
 <img align="left" alt="Aryan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -66,5 +64,7 @@ Hi, Aryan Gupta this side!A Machine Learning and Deep Learning Evangelist 🚀 f
 <code><img height="20" alt="Convolutional Neural Networks" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cnn.svg"></code>
 
 ![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=beingaryan&show_icons=true&theme=radical)
-<!--(https://github-readme-stats.vercel.app/api?username=beingaryan&show_icons=true&hide_border=true&theme=radical)--!>
+<!--<a href="https://www.codechef.com/users/beingaryan">
+<img align="left" alt="CodeChef Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codechef.svg" />
+</a>(https://github-readme-stats.vercel.app/api?username=beingaryan&show_icons=true&hide_border=true&theme=radical)--!>
 
