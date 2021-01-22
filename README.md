@@ -43,14 +43,14 @@ Here are some ideas to get you started:
 <code>var topics = ["NLP", "Cloud", "DS/Algo"];</code>
 
 ### What are my featured projects:question::rocket:
-<code>[Sign Language to Speech](https://github.com/beingaryan/Sign-To-Speech-Conversion)</code>:hourglass:     
-<code>[Blind Assistance: Object Detection](https://github.com/beingaryan/Blind-Assistance-Object-Detection-and-Navigation)</code>:mask:  
-<code>[Construction Accident Analysis](https://github.com/beingaryan/Construction-Accident-Analysis)</code>:robot: 
+<code>[Sign Language to Speech](https://github.com/beingaryan/Sign-To-Speech-Conversion)</code>:🙋‍♂️:     
+<code>[Blind Assistance: Object Detection](https://github.com/beingaryan/Blind-Assistance-Object-Detection-and-Navigation)</code>:👨‍🦯:  
+<code>[Construction Accident Analysis](https://github.com/beingaryan/Construction-Accident-Analysis)</code>:🏗: 
 
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
-- [Decidability of Approximation Algorithms](https://medium.com/aryan-gupta18/how-to-decide-suitability-of-approximation-algorithms-d8e45b90e530)
 - [Blind Assistance: Object Detection](https://medium.com/beingryaan/real-time-object-detection-along-with-distance-and-voice-alerts-for-blinds-a-blind-assistance-1708b97c3ecc)
+- [Decidability of Approximation Algorithms](https://medium.com/aryan-gupta18/how-to-decide-suitability-of-approximation-algorithms-d8e45b90e530)
 - [GIT: Version Control System ](https://medium.com/beingryaan/git-a-version-control-system-b1fcec6c1220)
 - [Getting Started with Machine Learning Libraries](https://medium.com/beingryaan/getting-started-with-machine-learning-libraries-3d0770ac864d)
 - [Azure Cloud System](https://medium.com/beingryaan/how-azure-cloud-system-is-bringing-transformation-eedd1c98a692)
@@ -126,7 +126,7 @@ Hi, Aryan Gupta this side!A Machine Learning and Deep Learning Evangelist 🚀 f
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aryan-gupta-6a9201191/)
 --->
 
-<!
+
 <!--<a href="https://www.codechef.com/users/beingaryan">
 <img align="left" alt="CodeChef Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codechef.svg" />
 </a>(https://github-readme-stats.vercel.app/api?username=beingaryan&show_icons=true&hide_border=true&theme=radical)--!>
