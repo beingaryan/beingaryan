@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### Where did I work earlier:question::man_technologist:
 <code>* [Indian Institute of Technology, Kharagpur](www.iitkgp.ac.in/) [Natural Language Processing Intern]</code>    
 <code>* [Tata Communications](www.tatacommunications.com/) [Deep Learning Intern]</code>    
-<code>* [Carnegie Melon University](http://cbd.cmu.edu/people/xu.html) [Deep Learning Intern]</code>  
+<code>* [Carnegie Mellon University](http://cbd.cmu.edu/people/xu.html) [Deep Learning Intern]</code>  
 <code>* [The Robotics Forum](https://vitpunerobotics.com/) [ML Developer]</code>      
 <code>* [GedIT Club](https://www.linkedin.com/company/gedit-coding-club-vit-pune/about/) [ML Trainer]</code>    
 
