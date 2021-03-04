@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm Pre-Final Year Undergraduate, pursuing Information Technology from [VIT](http://www.vit.edu/)"</code>
-- 📝[Resume](https://beingaryan.github.io/docs/Gupta_Aryan_IT_2022_Resume.pdf)
+- 📝[Resume](https://beingaryan.github.io/docs/3_Internships_Gupta_Aryan_IT_2022_Resume.pdf)
 
 ### Where did I work earlier:question::man_technologist:
 <code>* [Indian Institute of Technology, Kharagpur](www.iitkgp.ac.in/) [Natural Language Processing Intern]</code>    
