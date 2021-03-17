@@ -3,9 +3,11 @@
 <!--
 **beingaryan/beingaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - [GIT: Version Control System ](https://medium.com/beingryaan/git-a-version-control-system-b1fcec6c1220)
+- <code>git commit -m "Hello, I'm Pre-Final Year Undergraduate, pursuing Information Technology from [VIT](http://www.vit.edu/)"</code>
 - [Azure Cloud System](https://medium.com/beingryaan/how-azure-cloud-system-is-bringing-transformation-eedd1c98a692)
 Here are some ideas to get you started:
-
+var topics = 
+git commit -m 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,7 +28,7 @@ Here are some ideas to get you started:
 ### Wanna stalk my website:question::point_right: [Click Here](https://beingaryan.github.io/):sparkles:
 
 ### Who am I:question: 
-<code>git commit -m "Hello, I'm Pre-Final Year Undergraduate, pursuing Information Technology from [VIT](http://www.vit.edu/)"</code>
+<code>"Hello, I'm Pre-Final Year Undergraduate, pursuing Information Technology from [VIT](http://www.vit.edu/)"</code>
 - 📝[Resume](https://beingaryan.github.io/docs/3_Internships_Gupta_Aryan_IT_2022_Resume.pdf)
 
 ### Where did I work earlier:question::man_technologist:
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
 
 
 ### What am I learning:question::point_down:	
-<code>var topics = ["NLP", "Cloud", "DS/Algo"];</code>
+<code>["NLP", "Computer Vision"];</code>
 
 ### What are my featured projects:question::rocket:
 <code>[Sign Language to Speech](https://github.com/beingaryan/Sign-To-Speech-Conversion)</code>:🙋‍♂️:     
@@ -58,7 +60,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ### What can I help with:question::cyclone:
-<code>git commit -m "Pretty much ML/DL stuffs and interesting Project Ideas!"</code> :grin:
+<code>"Pretty much ML/DL stuffs and interesting Project Ideas!"</code> :grin:
 
 
 ### How to connect with me:question::email:
