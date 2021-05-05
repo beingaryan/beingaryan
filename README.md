@@ -28,7 +28,7 @@ git commit -m
 ### Wanna stalk my website:question::point_right: [Click Here](https://beingaryan.github.io/):sparkles:
 
 ### Who am I:question: 
-<code>"Hello, I'm Pre-Final Year Undergraduate, pursuing Information Technology from [VIT](http://www.vit.edu/)"</code>
+<code>git commit -m "Hello, I'm Pre-Final Year Undergraduate, pursuing Information Technology from [VIT](http://www.vit.edu/)"</code>
 - 📝[Resume](https://beingaryan.github.io/docs/3_Internships_Gupta_Aryan_IT_2022_Resume.pdf)
 
 ### Where did I work earlier:question::man_technologist:
