@@ -32,6 +32,7 @@ git commit -m
 - 📝[Resume](https://beingaryan.github.io/docs/3_Internships_Gupta_Aryan_IT_2022_Resume.pdf)
 
 ### Where did I work earlier:question::man_technologist:
+<code>* [NVIDIA](https://www.nvidia.com/en-in/) [Recommendation Systems Intern]</code>  
 <code>* [Indian Institute of Technology, Kharagpur](www.iitkgp.ac.in/) [Natural Language Processing Intern]</code>    
 <code>* [Tata Communications](www.tatacommunications.com/) [Deep Learning Intern]</code>    
 <code>* [Carnegie Mellon University](http://cbd.cmu.edu/people/xu.html) [Deep Learning Intern]</code>  
@@ -43,7 +44,7 @@ git commit -m
 
 
 ### What am I learning:question::point_down:	
-<code>["NLP", "Computer Vision"];</code>
+<code>["NLP", "Computer Vision","Recommendation Systems"];</code>
 
 ### What are my featured projects:question::rocket:
 <code>[Sign Language to Speech](https://github.com/beingaryan/Sign-To-Speech-Conversion)</code>:🙋‍♂️:     
