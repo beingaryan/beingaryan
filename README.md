@@ -109,4 +109,4 @@ git commit -m
 <br>
 
 
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=beingaryan&show_icons=true&theme=radical)
+<!-- ![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=beingaryan&show_icons=true&theme=radical) -->
