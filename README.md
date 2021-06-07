@@ -87,4 +87,26 @@ git commit -m
 
 ![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=beingaryan&show_icons=true&theme=radical)
 
+<br/>
+
+[![Aryan Gupta’s GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=beingaryan&theme=react-dark&hide_border=true)](https://github.com/beingaryan/)
+
+
+
+<div align="center">
+  <a >
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beingaryan&theme=black-ice&hide_border=true" width="800">
+  </a>
+  <br/>
+  <br/>
+  
+  <a href="https://github.com/beingaryan/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingaryan&theme=dark&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&count_private=true" />
+  </a>
+ <a href="https://github.com/beingaryan/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=beingaryan&count_private=true&theme=dark&show_icons=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&card_width=3&line_height=40" />
+  </a>
+</div>
+<br>
+
 
