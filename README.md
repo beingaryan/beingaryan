@@ -35,7 +35,6 @@ git commit -m
 <code>* [NVIDIA](https://www.nvidia.com/en-in/) [Recommendation Systems Intern]</code>  
 <code>* [Indian Institute of Technology, Kharagpur](www.iitkgp.ac.in/) [Natural Language Processing Intern]</code>    
 <code>* [Tata Communications](www.tatacommunications.com/) [Deep Learning Intern]</code>    
-<code>* [Carnegie Mellon University](http://cbd.cmu.edu/people/xu.html) [Deep Learning Intern]</code>  
 <code>* [The Robotics Forum](https://vitpunerobotics.com/) [ML Developer]</code>      
 <code>* [GedIT Club](https://www.linkedin.com/company/gedit-coding-club-vit-pune/about/) [ML Trainer]</code>    
 
