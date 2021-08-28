@@ -32,6 +32,7 @@ git commit -m
 - 📝[Resume](https://beingaryan.github.io/docs/3_Internships_Gupta_Aryan_IT_2022_Resume.pdf)
 
 ### Where did I work earlier:question::man_technologist:
+<code>* [Nvidia](https://github.com/NVIDIA/NVTabular/) [Recommendation Systems Intern]</code>    
 <code>* [Indian Institute of Technology, Kharagpur](www.iitkgp.ac.in/) [Natural Language Processing Intern]</code>    
 <code>* [Tata Communications](www.tatacommunications.com/) [Deep Learning Intern]</code>    
 <code>* [The Robotics Forum](https://vitpunerobotics.com/) [ML Developer]</code>      
