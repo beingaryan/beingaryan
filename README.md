@@ -52,9 +52,9 @@ git commit -m
 
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
-- [Blind Assistance: Object Detection](https://medium.com/beingryaan/real-time-object-detection-along-with-distance-and-voice-alerts-for-blinds-a-blind-assistance-1708b97c3ecc)
+<!-- - [Blind Assistance: Object Detection](https://medium.com/beingryaan/real-time-object-detection-along-with-distance-and-voice-alerts-for-blinds-a-blind-assistance-1708b97c3ecc)
 - [Decidability of Approximation Algorithms](https://medium.com/aryan-gupta18/how-to-decide-suitability-of-approximation-algorithms-d8e45b90e530)
-- [Getting Started with Machine Learning Libraries](https://medium.com/beingryaan/getting-started-with-machine-learning-libraries-3d0770ac864d)
+- [Getting Started with Machine Learning Libraries](https://medium.com/beingryaan/getting-started-with-machine-learning-libraries-3d0770ac864d) -->
  -->
 
 <!-- BLOG-POST-LIST:END -->
