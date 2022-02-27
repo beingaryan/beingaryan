@@ -41,7 +41,7 @@ git commit -m
 
 
 
-
+<!-- 
 ### What am I learning:question::point_down:	
 <code>["NLP", "Computer Vision","Recommendation Systems"];</code>
 
@@ -55,7 +55,7 @@ git commit -m
 - [Blind Assistance: Object Detection](https://medium.com/beingryaan/real-time-object-detection-along-with-distance-and-voice-alerts-for-blinds-a-blind-assistance-1708b97c3ecc)
 - [Decidability of Approximation Algorithms](https://medium.com/aryan-gupta18/how-to-decide-suitability-of-approximation-algorithms-d8e45b90e530)
 - [Getting Started with Machine Learning Libraries](https://medium.com/beingryaan/getting-started-with-machine-learning-libraries-3d0770ac864d)
-
+ -->
 
 <!-- BLOG-POST-LIST:END -->
 
