@@ -25,17 +25,15 @@ git commit -m
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=beingaryan alt=beingaryan/></p>
 
-### What are my featured projects:question::rocket:
+### Featured Projects:
 <code>[Sign Language to Speech](https://github.com/beingaryan/Sign-To-Speech-Conversion)</code>:🙋‍♂️:     
 <code>[Blind Assistance: Object Detection](https://github.com/beingaryan/Blind-Assistance-Object-Detection-and-Navigation)</code>:👨‍🦯:  
 <code>[Construction Accident Analysis](https://github.com/beingaryan/Construction-Accident-Analysis)</code>:🏗: 
 
-### Wanna see my blogs:question::fire:
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Blind Assistance: Object Detection](https://medium.com/beingryaan/real-time-object-detection-along-with-distance-and-voice-alerts-for-blinds-a-blind-assistance-1708b97c3ecc)
+### BLOGS
+- [Blind Assistance: Object Detection](https://medium.com/beingryaan/real-time-object-detection-along-with-distance-and-voice-alerts-for-blinds-a-blind-assistance-1708b97c3ecc)
 - [Decidability of Approximation Algorithms](https://medium.com/aryan-gupta18/how-to-decide-suitability-of-approximation-algorithms-d8e45b90e530)
 - [Getting Started with Machine Learning Libraries](https://medium.com/beingryaan/getting-started-with-machine-learning-libraries-3d0770ac864d) -->
- -->
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -45,8 +43,7 @@ git commit -m
 
 ### How to connect with me:question::email:
 :star: <code>[Mail](mailto:aryan.gupta18@vit.edu)</code>    
-:star: <code>[Instagram](https://www.instagram.com/beingryaan/)</code>  
-:star: <code>[LinkedIn](https://www.linkedin.com/in/aryan-gupta-6a9201191/)</code>  
+:star: <code>[LinkedIn](https://www.linkedin.com/in/aryan-gupta21/)</code>  
 :star: <code>[Medium](https://medium.com/@aryan.gupta18)</code>  
 
 
