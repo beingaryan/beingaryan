@@ -22,7 +22,7 @@ git commit -m
   <img src="https://github.com/beingaryan/beingaryan/blob/master/readme.gif">
 </p>
 
-## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=beingaryan alt=beingaryan/></p>
 
 ### Featured Projects:
