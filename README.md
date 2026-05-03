@@ -25,26 +25,6 @@ git commit -m
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=beingaryan alt=beingaryan/></p>
 
-### Wanna stalk my website:question::point_right: [Click Here](https://beingaryan.github.io/):sparkles:
-
-### Who am I:question: 
-<code>git commit -m "Hello, I'm Pre-Final Year Undergraduate, pursuing Information Technology from [VIT](http://www.vit.edu/)"</code>
-- 📝[Resume](https://beingaryan.github.io/docs/3_Internships_Gupta_Aryan_IT_2022_Resume.pdf)
-
-### Where did I work earlier:question::man_technologist:
-<code>* [Nvidia](https://github.com/NVIDIA/NVTabular/) [Recommendation Systems Intern]</code>    
-<code>* [Indian Institute of Technology, Kharagpur](www.iitkgp.ac.in/) [Natural Language Processing Intern]</code>    
-<code>* [Tata Communications](www.tatacommunications.com/) [Deep Learning Intern]</code>    
-<code>* [The Robotics Forum](https://vitpunerobotics.com/) [ML Developer]</code>      
-<code>* [GedIT Club](https://www.linkedin.com/company/gedit-coding-club-vit-pune/about/) [ML Trainer]</code>    
-
-
-
-
-<!-- 
-### What am I learning:question::point_down:	
-<code>["NLP", "Computer Vision","Recommendation Systems"];</code>
-
 ### What are my featured projects:question::rocket:
 <code>[Sign Language to Speech](https://github.com/beingaryan/Sign-To-Speech-Conversion)</code>:🙋‍♂️:     
 <code>[Blind Assistance: Object Detection](https://github.com/beingaryan/Blind-Assistance-Object-Detection-and-Navigation)</code>:👨‍🦯:  
@@ -59,7 +39,7 @@ git commit -m
 
 <!-- BLOG-POST-LIST:END -->
 
-### What can I help with:question::cyclone:
+### What can I help with ?
 <code>"Pretty much ML/DL stuffs and interesting Project Ideas!"</code> :grin:
 
 
