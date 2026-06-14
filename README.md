@@ -18,7 +18,7 @@ git commit -m
 - ⚡ Fun fact: ...
 -->
 
-
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=beingaryan alt=beingaryan/></p>
 ### Featured Projects:
 <code>[Sign Language to Speech](https://github.com/beingaryan/Sign-To-Speech-Conversion)</code>:🙋‍♂️:     
 <code>[Blind Assistance: Object Detection](https://github.com/beingaryan/Blind-Assistance-Object-Detection-and-Navigation)</code>:👨‍🦯:  
