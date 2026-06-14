@@ -20,11 +20,6 @@ git commit -m
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=beingaryan alt=beingaryan/></p>
 
-<p align="center">
-  <img src="https://github.com/beingaryan/beingaryan/blob/master/readme.gif">
-</p>
-
-
 ### Featured Projects:
 <code>[Sign Language to Speech](https://github.com/beingaryan/Sign-To-Speech-Conversion)</code>:🙋‍♂️:     
 <code>[Blind Assistance: Object Detection](https://github.com/beingaryan/Blind-Assistance-Object-Detection-and-Navigation)</code>:👨‍🦯:  
