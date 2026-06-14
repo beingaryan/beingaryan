@@ -18,9 +18,7 @@ git commit -m
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://github.com/beingaryan/beingaryan/blob/master/readme.gif">
-</p>
+
 ### Featured Projects:
 <code>[Sign Language to Speech](https://github.com/beingaryan/Sign-To-Speech-Conversion)</code>:🙋‍♂️:     
 <code>[Blind Assistance: Object Detection](https://github.com/beingaryan/Blind-Assistance-Object-Detection-and-Navigation)</code>:👨‍🦯:  
